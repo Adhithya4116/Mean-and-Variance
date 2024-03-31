@@ -1,5 +1,5 @@
-                                                                                      NAME:ADHITHYA PERUMAL.D
-                                                                                      REG.NO:212222230007
+                                                                                NAME:ADHITHYA PERUMAL.D
+                                                                                REG.NO:212222230007
 #  Mean and variance of a discrete  distribution
 
 
